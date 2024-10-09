@@ -18,6 +18,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+---
+  defaults:
+    # _docs
+    - scope:
+        path: ""
+        type: main
+      values:
+        sidebar:
+          nav: "main"
+  ---      
+
+
 title: FIDELITY
 email: fidelityuja@ujaen.es
 description: >- # this means to ignore newlines until "baseurl:"
