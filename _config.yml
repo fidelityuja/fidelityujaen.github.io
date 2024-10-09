@@ -23,7 +23,7 @@ email: fidelityuja@ujaen.es
 description: >- # this means to ignore newlines until "baseurl:"
   FIDELITY Website.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "fidelityuja.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "fidelityujaen.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: fidelity_uja
 github_username:  fidelityuja
 
